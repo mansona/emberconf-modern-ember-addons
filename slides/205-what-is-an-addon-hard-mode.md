@@ -21,4 +21,4 @@ notes: |
 
 ![ember svg jar](/screenshot-svg-jar.webp) <!-- .element width="600" style="position: absolute; right: 0px; top: 400px;" -->
 
-![ember polaris](/screenshot-test-selectors.webp) <!-- .element width="600" style="position: absolute; left: 190px; bottom: 160px;" -->
+![test selectors](/screenshot-test-selectors.webp) <!-- .element width="600" style="position: absolute; left: 190px; bottom: 160px;" -->

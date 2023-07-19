@@ -13,7 +13,7 @@ The second thing I want to dive into is the more involved kind of addon. In embe
 So the first thing we're going to do is we're going to generate a new addon using this command
 
 ```
-EMBER_CLI_PNPM=true npx ember-cli@latest addon modern-ember-addon-example -b @embroider/addon-blueprint --pnpm --embroider
+EMBER_CLI_PNPM=true npx ember-cli@latest addon modern-ember-addon-example -b @embroider/addon-blueprint --pnpm
 ``` 
 
 While we get that running on everyone's machine I can walk through what each of these little bits actually does

@@ -11,8 +11,8 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "bottled-ember build --ember-version=3.28 --deps=open-slide,open-slide-mainmatter-template --links=public,slides,app/styles --environment=production",
-    "start": "bottled-ember serve --ember-version=3.28 --deps=open-slide,open-slide-mainmatter-template --links=public,slides,app/styles"
+    "build": "bottled-ember build --ember-version=5.1 --deps=open-slide,open-slide-mainmatter-template --links=public,slides,app/styles --environment=production",
+    "start": "bottled-ember serve --ember-version=5.1 --deps=open-slide,open-slide-mainmatter-template --links=public,slides,app/styles"
   },
   "engines": {
     "node": "12.* || 14.* || >= 16"

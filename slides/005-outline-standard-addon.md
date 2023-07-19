@@ -8,6 +8,3 @@ notes: |
 - Generate a modern addon
 - Understand the structure
 - Interoperability with Classic
-
-- Intermediate tricks
-- Expert tricks - recreating addons of old

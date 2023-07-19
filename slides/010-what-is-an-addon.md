@@ -7,13 +7,10 @@ notes: |
   or it could provide you with some helpers like the incredibly popular ember-truth-thelpers addon. bacically they can provide you anything that you could write in your own app.
 ---
 
-# v2 Addon
+# what is an addon - simple 
 
-```sh
-EMBER_CLI_PNPM=true \
-  npx ember-cli@latest addon \
-  modern-ember-addon-example \
-  -b @embroider/addon-blueprint \
-  --pnpm --embroider
-```
+![ember paper](/ember-paper.webp) <!-- .element width="300" style="position: absolute; left: 190px; top: 200px" -->
 
+![ember styleguide](/ember-styleguide.webp) <!-- .element width="300" style="position: absolute; right: 300px; top: 250px;" -->
+
+![ember truth helpers](/ember-truth-helpers.webp) <!-- .element width="500" style="position: absolute; left: 190px; bottom: 160px;" -->
