@@ -9,7 +9,7 @@ notes: |
 
 ```js
 
-import { rollupPlugin as emojiJar } from './rollup-plugin-emoji-jar.mjs';
+import { webpackPlugin as emojiJar } from './rollup-plugin-emoji-jar.mjs';
 
 const { Webpack } = require('@embroider/webpack');
 return require('@embroider/compat').compatBuild(app, Webpack, {
