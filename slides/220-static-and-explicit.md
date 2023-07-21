@@ -5,4 +5,4 @@ notes: |
 
 # static and explicit
 
-> maybe something? 
+![explicit](/explicit.svg)

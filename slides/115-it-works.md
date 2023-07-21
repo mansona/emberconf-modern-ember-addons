@@ -7,10 +7,4 @@ notes: |
 
 🎉
 
-
 <!-- .element style="font-size: 5em;"  -->
-
-...kinda 🙈
-
-
-<!-- .element class="fragment"  -->

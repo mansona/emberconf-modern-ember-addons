@@ -5,6 +5,4 @@ notes: |
 
 # A Word of Caution
 
-> Zoey says?
-> <br>
-> This is not a standard yet!
+> ⚠️ This is not a standard yet! ⚠️

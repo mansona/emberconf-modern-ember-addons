@@ -8,7 +8,7 @@ notes: |
 with a generator 🎉
 
 ```
-cd modern-ember-addon-example # go into the addon in the monorepo
-
-pnpm i --save-dev layer-gen github:mansona/v2-addon-blueprints
+pnpm i -w --save-dev layer-gen github:mansona/v2-addon-blueprints
 ```
+
+<!-- .element style="width: 870px; scale: 1.5;" -->

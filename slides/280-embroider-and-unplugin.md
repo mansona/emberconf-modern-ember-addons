@@ -5,4 +5,10 @@ notes: |
 
 # embroider and unplugin
 
-This is a slide!
+<br>
+
+![unplugin](/unplugin.webp)
+
+<!-- .element style="scale: .9" -->
+
+https://github.com/unjs/unplugin

@@ -11,5 +11,15 @@ notes: |
 ---
 ## Outline - A Game of two halves
 
-- the new standard addon
-- build "addons"
+![football pitch](/football.webp)
+
+<!-- .element style="position: absolute; left: 200px; top: 130px;" -->
+
+## the new standard addon
+
+<!-- .element style="position: absolute; left: 280px; top: 280px; width: 300px; color: white;" -->
+
+
+## build "addons"
+
+<!-- .element style="position: absolute; right: 280px; top: 280px; width: 320px; color: white;" -->

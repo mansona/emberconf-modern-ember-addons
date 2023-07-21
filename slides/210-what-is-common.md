@@ -5,4 +5,4 @@ notes: |
 
 # what is common?
 
-> gif changes you? robot? something
+![](/robots.webp)

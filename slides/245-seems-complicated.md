@@ -5,4 +5,6 @@ notes: |
 
 # seems complicated
 
-> confused gif
+![confused](/confused.webp)
+
+<!-- .element style="scale: 1.5" -->

@@ -9,5 +9,7 @@ notes: |
 
 # v2 Addon - ~Upgrade~
 
+<br>
+<br>
 
-> gif of getting ready to dive in - upgrading is for chumps
+<video controls data-autoplay loop muted playsinline style="height: 500px;" src="/jump-in.webm"></video>
